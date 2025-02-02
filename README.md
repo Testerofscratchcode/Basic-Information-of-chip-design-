@@ -1,4 +1,4 @@
-# Basic-Information-of-chip-design
+# Basic-Information-of-chip-design lecture-1
 This is basic information about chip design.
 
 Lecture 1:- Introduction To Basic Physics and Electricity  
